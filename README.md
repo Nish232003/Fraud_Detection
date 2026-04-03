@@ -69,8 +69,10 @@ The logistic regression model identified several key factors that strongly predi
 
 - **Strongest Legitimate Indicators (Negative Correlation)**:
   - `type_PAYMENT`: Routine payment transactions are highly unlikely to be fraudulent.
+    <img width="707" height="394" alt="image" src="https://github.com/user-attachments/assets/870cefb6-eac7-4984-bba0-e37cb3968453" />
 
-The existing `isFlaggedFraud` system flag had a neutral impact, suggesting it is not effective in identifying the types of fraud present in this dataset.
+
+
 
 ![Feature Importance](https://i.imgur.com/G5gE3Vv.png)
 

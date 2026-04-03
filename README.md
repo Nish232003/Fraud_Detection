@@ -72,10 +72,6 @@ The logistic regression model identified several key factors that strongly predi
     <img width="707" height="394" alt="image" src="https://github.com/user-attachments/assets/870cefb6-eac7-4984-bba0-e37cb3968453" />
 
 
-
-
-![Feature Importance](https://i.imgur.com/G5gE3Vv.png)
-
 ## Actionable Recommendations
 
 Based on the model's findings, the following prevention strategies are recommended:
